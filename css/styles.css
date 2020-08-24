@@ -1,5 +1,6 @@
 body {
   background-color: #bbe1fa;
+  margin: 0;
 }
 
 hr {
@@ -11,7 +12,8 @@ hr {
 }
 
 h1{
-  color: #3282b8;
+  color: black;
+  margin-top: 0;
 }
 
 h2{
@@ -20,4 +22,8 @@ h2{
 
 h3 {
   color: #3282b8;
+}
+
+div {
+  background-color: #3282b8;
 }
